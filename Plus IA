@@ -1,0 +1,20 @@
+plus-ai/
+│
+├── api/
+│   ├── register.js
+│   ├── login.js
+│   ├── chat.js
+│   ├── dashboard.js
+│   └── upgrade.js
+│
+├── lib/
+│   └── db.js
+│
+├── public/
+│   ├── index.html
+│   ├── dashboard.html
+│   ├── style.css
+│   ├── app.js
+│   └── avatar.js
+│
+├── package.json
